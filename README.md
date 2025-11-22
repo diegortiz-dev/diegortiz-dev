@@ -1,4 +1,4 @@
-# 💫 About Me:
+👩🏻‍💻 Diego Ortiz
 💡 I'm a software developer in progress — currently focused on front-end and web development.<br>🎓 I'm an 18-year-old student studying Systems Development and planning to pursue Software Engineering.<br>🌱 Always learning, improving my skills, and working on small projects and freelance tasks to gain real experience.<br>✉️ You can email me at ortizdtz@gmail.com — I'll get back to you as soon as possible!
 
 
