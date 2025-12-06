@@ -1,74 +1,80 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-###
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/diegortiz-dev.png" width="120" style="border-radius:50%" />
-  <h3>👩🏻‍💻 Diego Ortiz</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Diego%20Ortiz&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
-###
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=800&color=6C63FF&center=true&vCenter=true&random=false&width=460&lines=Desenvolvedor;Em+constante+evolução;Construindo+projetos+reais;)](https://git.io/typing-svg)
+
+</div>
+
+## 👨‍💻 Sobre Mim
+
+Olá, meu nome é **Diego Ortiz**, tenho 18 anos e sou estudante de **Desenvolvimento de Sistemas**.  
+Atualmente desenvolvo projetos utilizando tecnologias modernas e sigo em evolução para me tornar um profissional completo na área de software.
+
+- 🎯 Buscando oportunidades e experiência prática
+- 💻 Desenvolvendo projetos pessoais e pequenos freelances
+- 🚀 Focado em evolução e entrega de valor
+- 🎓 Planejo cursar **Engenharia de Software**
+
+📩 **Email:** **ortizdtz@gmail.com**
+
+---
+
+<div align="center">
+
+### 📱 Conecte-se Comigo
+
+[![Instagram](https://img.shields.io/badge/Instagram-6C63FF?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ortiz.dtz)
+[![Email](https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ortizdtz@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-6C63FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/575450487810162700)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 Stack Tecnológica
+
+</div>
+
+### 🧩 Linguagens & Frameworks
 
 <p align="center">
-💡 I'm a software developer in progress — currently focused on front-end and web development.<br/>
-🎓 I'm an 18-year-old student studying Systems Development and planning to pursue Software Engineering.<br/>
-🌱 Always learning, improving my skills, and working on small projects and freelance tasks.<br/>
-✉️ Contact me at <b>ortizdtz@gmail.com</b>
+<img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="TailwindCSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</p>
+
+### 🛠️ Ferramentas
+
+<p align="center">
+<img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
 
 ---
 
-## 🚀 Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws" height="60"/>
-</div>
 
-<div align="center">
-  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=diegortiz-dev&show_icons=true&theme=tokyonight&icon_color=6C63FF&title_color=6C63FF&text_color=ffffff&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegortiz-dev&layout=compact&hide_border=true&theme=tokyonight&title_color=6C63FF&text_color=ffffff&bg_color=0D1117&langs_count=8" />
+</p>
 
 </div>
 
 ---
 
-## 🌐 Socials
-
 <div align="center">
-  <a href="https://linkedin.com/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge"/></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge"/></a>
-  <a href="https://instagram.com/ortiz.dtz"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&style=for-the-badge"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%"/>
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=diegortiz-dev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=diegortiz-dev&theme=dracula&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegortiz-dev&theme=dracula&hide_border=false&layout=compact)
-
-</div>
-
----
-
-## 🎮 Contribution Fun
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegortiz-dev/diegortiz-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegortiz-dev/diegortiz-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diegortiz-dev/diegortiz-dev/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
