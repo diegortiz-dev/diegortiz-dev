@@ -11,7 +11,7 @@
 ## 👨‍💻 Sobre Mim
 
 Olá, meu nome é **Diego Ortiz**, tenho 18 anos e sou estudante de **Desenvolvimento de Sistemas**.  
-Atualmente desenvolvo projetos utilizando tecnologias modernas e sigo em evolução para me tornar um profissional completo na área de software.
+Atualmente desenvolvo projetos utilizando tecnologias modernas e sigo em evolução para me tornar um profissional completo na área de desenvolvimento.
 
 - 🎯 Buscando oportunidades e experiência prática
 - 💻 Desenvolvendo projetos pessoais e pequenos freelances
@@ -47,8 +47,9 @@ Atualmente desenvolvo projetos utilizando tecnologias modernas e sigo em evoluç
 <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img alt="TailwindCSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-<img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
 <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
 
