@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá, meu nome é **Diego Ortiz**, tenho 18 anos e sou estudante de **Desenvolvimento de Sistemas**.  
+Olá, meu nome é **Diego Ortiz**, tenho 19 anos e sou estudante de **Desenvolvimento de Sistemas**.  
 Atualmente desenvolvo projetos utilizando tecnologias modernas e sigo em evolução para me tornar um profissional completo na área de desenvolvimento.
 
 - 🎯 Buscando oportunidades e experiência prática
