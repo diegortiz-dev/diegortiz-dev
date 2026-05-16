@@ -65,17 +65,3 @@ Atualmente desenvolvo projetos utilizando tecnologias modernas e sigo em evoluç
 
 <div align="center">
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=diegortiz-dev&show_icons=true&theme=tokyonight&icon_color=6C63FF&title_color=6C63FF&text_color=ffffff&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegortiz-dev&layout=compact&hide_border=true&theme=tokyonight&title_color=6C63FF&text_color=ffffff&bg_color=0D1117&langs_count=8" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%"/>
-</div>
