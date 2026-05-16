@@ -1,48 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Diego%20Ortiz&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=160&section=header&text=Diego%20Ortiz&fontSize=40&fontColor=ffffff" width="100%"/>
 </div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=800&color=6C63FF&center=true&vCenter=true&random=false&width=460&lines=Desenvolvedor;Em+constante+evolução;Construindo+projetos+reais;)](https://git.io/typing-svg)
-
-</div>
-
-## 👨‍💻 Sobre Mim
-
-Olá, meu nome é **Diego Ortiz**, tenho 19 anos e sou estudante de **Desenvolvimento de Sistemas**.  
-Atualmente desenvolvo projetos utilizando tecnologias modernas e sigo em evolução para me tornar um profissional completo na área de desenvolvimento.
-
-- 🎯 Buscando oportunidades e experiência prática
-- 💻 Desenvolvendo projetos pessoais e pequenos freelances
-- 🚀 Focado em evolução e entrega de valor
-- 🎓 Planejo cursar **Engenharia de Software**
-
-📩 **Email:** **ortizdtz@gmail.com**
-
----
-
-<div align="center">
-
-### 📱 Conecte-se Comigo
-
-[![Instagram](https://img.shields.io/badge/Instagram-6C63FF?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ortiz.dtz)
-[![Email](https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ortizdtz@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-6C63FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/575450487810162700)
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 Stack Tecnológica
-
-</div>
-
-### 🧩 Linguagens & Frameworks
+<h3 align="center">Desenvolvedor</h3>
 
 <p align="center">
+  Estudante de Desenvolvimento de Sistemas focado em aplicações web, backend e projetos reais.
+</p>
+
+---
+
+## Sobre
+
+- 19 anos
+- Desenvolvedor focado em TypeScript, React e Python
+- Criando projetos pessoais e freelances
+- Interesse em backend, arquitetura e produto
+- Futuro estudante de Engenharia de Software
+
+📩 **Contato:** `ortizdtz@gmail.com`
+
+---
+
+## Stack
+
+<div align="center">
+
+### Frontend
 <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -50,18 +34,22 @@ Atualmente desenvolvo projetos utilizando tecnologias modernas e sigo em evoluç
 <img alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img alt="TailwindCSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 
+### Backend & Tools
 <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</p>
-
-### 🛠️ Ferramentas
-
-<p align="center">
 <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</p>
+
+</div>
 
 ---
 
+## Links
+
 <div align="center">
 
+[![Instagram](https://img.shields.io/badge/Instagram-181818?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ortiz.dtz)
+[![Discord](https://img.shields.io/badge/Discord-181818?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/575450487810162700)
+[![Email](https://img.shields.io/badge/Email-181818?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ortizdtz@gmail.com)
+
+</div>
